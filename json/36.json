@@ -1,1 +1,20 @@
-{"animation_url":"https://metadata-store.klaytnapi.com/9baffb89-03c7-743f-17ae-38a037067b38/01b1451f-f027-e1ee-0fd8-f21d2b47e4fa.mp4","attributes":[{"trait_type":"date","value":"2022.06.22"},{"trait_type":"name","value":"JINO CHO"},{"trait_type":"vision","value":"MoneyMachine"},{"trait_type":"goal","value":"Billionaire"},{"trait_type":"title","value":"Start of Something New"},{"trait_type":"year","value":"2022"},{"display_type":"number","max_value":2,"trait_type":"semester","value":1}],"description":"At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.","image":"https://metadata-store.klaytnapi.com/553fb648-9cc5-8d7f-9f03-936eb626e3b2/3048e6fc-ae29-2e5e-1553-4dcc99b6b799.png","name":"aSSIST VC MBA NFT #36"}
+{
+  "animation_url": "http://assist-metadata.biyard.co/videos/01b1451f-f027-e1ee-0fd8-f21d2b47e4fa.mp4",
+  "attributes": [
+    { "trait_type": "date", "value": "2022.06.22" },
+    { "trait_type": "name", "value": "JINO CHO" },
+    { "trait_type": "vision", "value": "MoneyMachine" },
+    { "trait_type": "goal", "value": "Billionaire" },
+    { "trait_type": "title", "value": "Start of Something New" },
+    { "trait_type": "year", "value": "2022" },
+    {
+      "display_type": "number",
+      "max_value": 2,
+      "trait_type": "semester",
+      "value": 1
+    }
+  ],
+  "description": "At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.",
+  "image": "http://assist-metadata.biyard.co/images/3048e6fc-ae29-2e5e-1553-4dcc99b6b799.png",
+  "name": "aSSIST VC MBA NFT #36"
+}

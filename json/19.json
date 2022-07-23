@@ -1,1 +1,20 @@
-{"animation_url":"https://metadata-store.klaytnapi.com/9baffb89-03c7-743f-17ae-38a037067b38/fec43d79-1335-0a41-ca45-61b263fc0755.mp4","attributes":[{"trait_type":"date","value":"2022.06.22"},{"trait_type":"name","value":"kan"},{"trait_type":"vision","value":"NextSubculture"},{"trait_type":"goal","value":"BroadenLifeSpectrum"},{"trait_type":"title","value":"The World of Kanikan"},{"trait_type":"year","value":"2022"},{"display_type":"number","max_value":2,"trait_type":"semester","value":1}],"description":"At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.","image":"https://metadata-store.klaytnapi.com/553fb648-9cc5-8d7f-9f03-936eb626e3b2/cd04421a-a930-2bdb-465a-e6c44a109f73.png","name":"aSSIST VC MBA NFT #19"}
+{
+  "animation_url": "http://assist-metadata.biyard.co/videos/fec43d79-1335-0a41-ca45-61b263fc0755.mp4",
+  "attributes": [
+    { "trait_type": "date", "value": "2022.06.22" },
+    { "trait_type": "name", "value": "kan" },
+    { "trait_type": "vision", "value": "NextSubculture" },
+    { "trait_type": "goal", "value": "BroadenLifeSpectrum" },
+    { "trait_type": "title", "value": "The World of Kanikan" },
+    { "trait_type": "year", "value": "2022" },
+    {
+      "display_type": "number",
+      "max_value": 2,
+      "trait_type": "semester",
+      "value": 1
+    }
+  ],
+  "description": "At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.",
+  "image": "http://assist-metadata.biyard.co/images/cd04421a-a930-2bdb-465a-e6c44a109f73.png",
+  "name": "aSSIST VC MBA NFT #19"
+}

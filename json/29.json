@@ -1,1 +1,20 @@
-{"animation_url":"https://metadata-store.klaytnapi.com/9baffb89-03c7-743f-17ae-38a037067b38/cbbba6e8-985f-e5ab-1ff1-64be3a2c88dc.mp4","attributes":[{"trait_type":"date","value":"2022.06.22"},{"trait_type":"name","value":"Jaeho Lee"},{"trait_type":"vision","value":"Theearlybirdeatsfood."},{"trait_type":"goal","value":"NFTUnderstandingMetaverseWinner"},{"trait_type":"title","value":"JHLeeNFT"},{"trait_type":"year","value":"2022"},{"display_type":"number","max_value":2,"trait_type":"semester","value":1}],"description":"At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.","image":"https://metadata-store.klaytnapi.com/553fb648-9cc5-8d7f-9f03-936eb626e3b2/6ff327ed-9735-e09d-a1b9-2b34fde36f9b.png","name":"aSSIST VC MBA NFT #29"}
+{
+  "animation_url": "http://assist-metadata.biyard.co/videos/cbbba6e8-985f-e5ab-1ff1-64be3a2c88dc.mp4",
+  "attributes": [
+    { "trait_type": "date", "value": "2022.06.22" },
+    { "trait_type": "name", "value": "Jaeho Lee" },
+    { "trait_type": "vision", "value": "Theearlybirdeatsfood." },
+    { "trait_type": "goal", "value": "NFTUnderstandingMetaverseWinner" },
+    { "trait_type": "title", "value": "JHLeeNFT" },
+    { "trait_type": "year", "value": "2022" },
+    {
+      "display_type": "number",
+      "max_value": 2,
+      "trait_type": "semester",
+      "value": 1
+    }
+  ],
+  "description": "At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.",
+  "image": "http://assist-metadata.biyard.co/images/6ff327ed-9735-e09d-a1b9-2b34fde36f9b.png",
+  "name": "aSSIST VC MBA NFT #29"
+}

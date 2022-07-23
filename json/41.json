@@ -1,1 +1,20 @@
-{"animation_url":"https://metadata-store.klaytnapi.com/9baffb89-03c7-743f-17ae-38a037067b38/a42f47c4-5964-e18b-b67c-6f8fb0f8776f.mp4","attributes":[{"trait_type":"date","value":"2022.06.22"},{"trait_type":"name","value":"Inuscommunity's Eric"},{"trait_type":"vision","value":"NextWeb"},{"trait_type":"goal","value":"NFT의와마케팅과의순한연결고리는?"},{"trait_type":"title","value":"aSSIST VC MBA 비학위 과정 수료증"},{"trait_type":"year","value":"2022"},{"display_type":"number","max_value":2,"trait_type":"semester","value":1}],"description":"At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.","image":"https://metadata-store.klaytnapi.com/553fb648-9cc5-8d7f-9f03-936eb626e3b2/773ef2f2-339f-f8c0-111a-6ae11df6d62d.png","name":"aSSIST VC MBA NFT #41"}
+{
+  "animation_url": "http://assist-metadata.biyard.co/videos/a42f47c4-5964-e18b-b67c-6f8fb0f8776f.mp4",
+  "attributes": [
+    { "trait_type": "date", "value": "2022.06.22" },
+    { "trait_type": "name", "value": "Inuscommunity's Eric" },
+    { "trait_type": "vision", "value": "NextWeb" },
+    { "trait_type": "goal", "value": "NFT의와마케팅과의순한연결고리는?" },
+    { "trait_type": "title", "value": "aSSIST VC MBA 비학위 과정 수료증" },
+    { "trait_type": "year", "value": "2022" },
+    {
+      "display_type": "number",
+      "max_value": 2,
+      "trait_type": "semester",
+      "value": 1
+    }
+  ],
+  "description": "At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.",
+  "image": "http://assist-metadata.biyard.co/images/773ef2f2-339f-f8c0-111a-6ae11df6d62d.png",
+  "name": "aSSIST VC MBA NFT #41"
+}

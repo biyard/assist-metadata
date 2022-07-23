@@ -1,1 +1,20 @@
-{"animation_url":"https://metadata-store.klaytnapi.com/9baffb89-03c7-743f-17ae-38a037067b38/84a4dad1-cd2b-4a1d-c605-5d715df4278d.mp4","attributes":[{"trait_type":"date","value":"2022.06.22"},{"trait_type":"name","value":"Kyunghee Choi"},{"trait_type":"vision","value":"Freedom"},{"trait_type":"goal","value":"Happiness"},{"trait_type":"title","value":"Ringo"},{"trait_type":"year","value":"2022"},{"display_type":"number","max_value":2,"trait_type":"semester","value":1}],"description":"At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.","image":"https://metadata-store.klaytnapi.com/553fb648-9cc5-8d7f-9f03-936eb626e3b2/d08be2ed-3b80-d613-3a15-5d8c9beb53ef.png","name":"aSSIST VC MBA NFT #39"}
+{
+  "animation_url": "http://assist-metadata.biyard.co/videos/84a4dad1-cd2b-4a1d-c605-5d715df4278d.mp4",
+  "attributes": [
+    { "trait_type": "date", "value": "2022.06.22" },
+    { "trait_type": "name", "value": "Kyunghee Choi" },
+    { "trait_type": "vision", "value": "Freedom" },
+    { "trait_type": "goal", "value": "Happiness" },
+    { "trait_type": "title", "value": "Ringo" },
+    { "trait_type": "year", "value": "2022" },
+    {
+      "display_type": "number",
+      "max_value": 2,
+      "trait_type": "semester",
+      "value": 1
+    }
+  ],
+  "description": "At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.",
+  "image": "http://assist-metadata.biyard.co/images/d08be2ed-3b80-d613-3a15-5d8c9beb53ef.png",
+  "name": "aSSIST VC MBA NFT #39"
+}

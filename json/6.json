@@ -1,1 +1,16 @@
-{"animation_url":"https://metadata-store.klaytnapi.com/9baffb89-03c7-743f-17ae-38a037067b38/b2d09a90-c066-5cec-ca73-68b8d8794d8d.mp4","attributes":[{"trait_type":"date","value":"2022.06.22"},{"trait_type":"year","value":"2022"},{"display_type":"number","max_value":2,"trait_type":"semester","value":1}],"description":"At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.","image":"https://metadata-store.klaytnapi.com/553fb648-9cc5-8d7f-9f03-936eb626e3b2/5eb09ab0-6b50-f70e-f73b-3362f4d3d5f7.png","name":"aSSIST VC MBA NFT #6"}
+{
+  "animation_url": "http://assist-metadata.biyard.co/videos/b2d09a90-c066-5cec-ca73-68b8d8794d8d.mp4",
+  "attributes": [
+    { "trait_type": "date", "value": "2022.06.22" },
+    { "trait_type": "year", "value": "2022" },
+    {
+      "display_type": "number",
+      "max_value": 2,
+      "trait_type": "semester",
+      "value": 1
+    }
+  ],
+  "description": "At aSSIST VC MBA Executive Education, we acknowledge the Certificate NFT holders made in their professional development with the NFT and Metaverse program. The holders receive selected aSSIST VC MBA alumni benefits and join a powerful, global network of alumni.",
+  "image": "http://assist-metadata.biyard.co/images/5eb09ab0-6b50-f70e-f73b-3362f4d3d5f7.png",
+  "name": "aSSIST VC MBA NFT #6"
+}
